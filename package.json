@@ -10,9 +10,11 @@
   "dependencies": {
     "core-js": "^2.6.5",
     "register-service-worker": "^1.6.2",
+    "sweetalert2": "^8.11.1",
     "vue": "^2.6.10"
   },
   "devDependencies": {
+    "webpack": "^4.31.0",
     "@vue/cli-plugin-babel": "^3.7.0",
     "@vue/cli-plugin-eslint": "^3.7.0",
     "@vue/cli-plugin-pwa": "^3.7.0",
